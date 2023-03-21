@@ -4,12 +4,9 @@ import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
 import org.json.JSONArray;
 import org.json.JSONException;
-import org.json.JSONObject;
 import org.springframework.stereotype.Service;
-import pl.kamilszopa.weatherdemo.service.dto.ForecastDTO;
+import pl.kamilszopa.weatherdemo.dto.ForecastDTO;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 

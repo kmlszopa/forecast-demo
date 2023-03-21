@@ -1,4 +1,4 @@
-package pl.kamilszopa.weatherdemo.service.dto;
+package pl.kamilszopa.weatherdemo.dto;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

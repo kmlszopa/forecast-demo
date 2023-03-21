@@ -1,6 +1,6 @@
 package pl.kamilszopa.weatherdemo.service;
 
-import pl.kamilszopa.weatherdemo.service.dto.ForecastDTO;
+import pl.kamilszopa.weatherdemo.dto.ForecastDTO;
 
 import java.util.List;
 

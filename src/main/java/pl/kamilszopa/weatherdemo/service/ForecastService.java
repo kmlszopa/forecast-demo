@@ -1,7 +1,7 @@
 package pl.kamilszopa.weatherdemo.service;
 
 import org.springframework.stereotype.Service;
-import pl.kamilszopa.weatherdemo.service.dto.ForecastDTO;
+import pl.kamilszopa.weatherdemo.dto.ForecastDTO;
 
 import java.util.List;
 

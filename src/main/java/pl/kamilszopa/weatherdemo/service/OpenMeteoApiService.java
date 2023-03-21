@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import pl.kamilszopa.weatherdemo.domain.RequestDetails;
 import pl.kamilszopa.weatherdemo.mapper.ForecastMapper;
 import pl.kamilszopa.weatherdemo.repository.RequestDetailsRepository;
-import pl.kamilszopa.weatherdemo.service.dto.ForecastDTO;
+import pl.kamilszopa.weatherdemo.dto.ForecastDTO;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

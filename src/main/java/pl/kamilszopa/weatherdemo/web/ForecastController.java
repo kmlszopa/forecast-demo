@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import pl.kamilszopa.weatherdemo.service.ForecastService;
-import pl.kamilszopa.weatherdemo.service.dto.ForecastDTO;
+import pl.kamilszopa.weatherdemo.dto.ForecastDTO;
 
 import java.util.List;
 
